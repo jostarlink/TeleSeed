@@ -241,7 +241,7 @@ topkecleon
 Vamptacus
 
 Our channels
-@ms00sm [English]
+@jostarlink [English]
 ]],
     help_text = [[
 Commands list :
